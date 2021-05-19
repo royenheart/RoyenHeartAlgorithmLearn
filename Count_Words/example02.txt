@@ -1,0 +1,20 @@
+Abstract Cellular automata are simple mathematical systems that exhibit very complicated
+behaviour. They can be considered as discrete dynamical systems or as computational
+systems. Progress has recently been made in studying several aspects of them. Twenty central
+problems that remain unsolved are discussed. Many of the complicated systems in nature
+have been found to have quite simple components. Their complex overall behaviour seems
+to arise from the cooperative effect of a very large number of parts that each follow rather
+simple rules. Cellular automata are a class of mathematical models that seem to capture the
+essential features of this phenomenon. From their study one may hope to abstract some
+general laws that could extend the laws of thermodyamics to encompass complex and
+self organizing systems. There has been recent progress in analysing some aspects of
+cellular automata. But many important problems remain. This paper discusses some of the
+ones that have so far been identified. The problems are intended to be broad in scope, and
+are probably not easy to solve. To solve any one of them completely will probably require a
+multitude of subsidiary questions to be asked and answered. But when they are solved,
+substantial progress towards a theory of cellular automata and perhaps of complex systems
+in general should have been made. The emphasis of the paper is on what is not known: for
+expositions of what is already known about cellular automata, see [l-41. The paper
+concentrates on theoretical aspects of cellular automata. There is little discussion of models
+for actual natural systems. But many of the theoretical issues discussed should have direct
+consequences for such models.
